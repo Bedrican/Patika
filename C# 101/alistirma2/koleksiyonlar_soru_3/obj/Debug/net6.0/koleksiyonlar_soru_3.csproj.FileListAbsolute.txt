@@ -1,0 +1,15 @@
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\bin\Debug\net6.0\koleksiyonlar_soru_3.exe
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\bin\Debug\net6.0\koleksiyonlar_soru_3.deps.json
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\bin\Debug\net6.0\koleksiyonlar_soru_3.runtimeconfig.json
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\bin\Debug\net6.0\koleksiyonlar_soru_3.dll
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\bin\Debug\net6.0\koleksiyonlar_soru_3.pdb
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.csproj.AssemblyReference.cache
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.AssemblyInfoInputs.cache
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.AssemblyInfo.cs
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.csproj.CoreCompileInputs.cache
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.dll
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\refint\koleksiyonlar_soru_3.dll
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.pdb
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\koleksiyonlar_soru_3.genruntimeconfig.cache
+C:\Users\bedri\RiderProjects\koleksiyonlar_soru_3\koleksiyonlar_soru_3\obj\Debug\net6.0\ref\koleksiyonlar_soru_3.dll
